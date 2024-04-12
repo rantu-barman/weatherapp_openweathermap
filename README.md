@@ -36,3 +36,8 @@ Testability: With clear separation of concerns and dependency injection, unit te
 Flexibility: The modular structure and use of design patterns allow for seamless integration of new features and updates without risking the stability of existing functionality.
 Scalability: As the project grows in complexity and size, the adopted practices support scalability by promoting code organization, reusability, and adaptability to changing requirements.
 Conclusion: By incorporating runZonedGuarded for error handling, implementing clean code architecture with MVVM and BLoC, and adopting dependency injection, the Flutter project is well-equipped to achieve scalability, maintainability, and robustness. These features not only enhance the development experience but also contribute to the long-term success and sustainability of the project.
+
+
+![waimage3](https://github.com/rantu-barman/weatherapp_openweathermap/assets/115134908/87bd13cd-44c0-4ace-9f40-dd7f956f67fc)
+![waimage2](https://github.com/rantu-barman/weatherapp_openweathermap/assets/115134908/71188d2a-7046-4d1e-b2ec-bdf4e48b3037)
+![waimage1](https://github.com/rantu-barman/weatherapp_openweathermap/assets/115134908/cc2edbb9-6648-4792-8ea7-8aa489bb2473)
